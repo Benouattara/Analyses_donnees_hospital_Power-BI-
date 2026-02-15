@@ -153,25 +153,19 @@ Le projet comprend **5 dashboards interactifs** :
 - Top 10 motifs de consultation
 - Carte géographique des patients
 
-### 2. 👨‍⚕️ Dashboard Analyse Médicale
-- Performance par médecin et spécialité
-- Matrice consultations × types
-- Analyse durée / montant
-- Taux d'analyses anormales
-
-### 3. 💼 Dashboard Analyse Financière
+### 2. 💼 Dashboard Analyse Financière
 - Décomposition des revenus
 - Évolution par source (consultations, hospitalisations, analyses)
 - Top médicaments par coût
 - Distribution revenus par ville
 
-### 4. 👥 Dashboard Patients
+### 3. 👥 Dashboard Patients
 - Pyramide des âges
 - Distribution par groupe sanguin
 - Taux de couverture mutuelle
 - Analyse démographique
 
-### 5. 🏥 Dashboard Hospitalisations
+### 4. 🏥 Dashboard Hospitalisations
 - Hospitalisations par service
 - Tendances des admissions
 - Distribution durées de séjour
@@ -215,16 +209,16 @@ Le projet comprend **5 dashboards interactifs** :
 ### Instructions
 1. **Télécharger le projet**
    ```bash
-   git clone https://github.com/votre-username/PowerBI-Healthcare-Analytics.git
-   cd PowerBI-Healthcare-Analytics
+   git clone https://github.com/Benouattara/Analyses_donnees_hospital_Power-BI.git
+   cd Analyses_donnees_hospital_Power-BI
    ```
 
 2. **Ouvrir le fichier Power BI**
-   - Double-cliquer sur `rapport.pbix`
+   - Double-cliquer sur `analyse financière de l'hôpital.pbix`
    - Le fichier s'ouvrira dans Power BI Desktop
 
 3. **Explorer les dashboards**
-   - Naviguer entre les 5 pages de rapport
+   - Naviguer entre les 4 pages de rapport
    - Utiliser les filtres (slicers) pour interagir
    - Cliquer sur les visuels pour filtrer dynamiquement
 
@@ -267,12 +261,16 @@ Ce projet a été développé pour démontrer une maîtrise complète de Power B
 
 ## 📸 Aperçus
 
-> 💡 **Note** : Ajoutez ici des captures d'écran de vos dashboards une fois le rapport Power BI créé.
+> <img width="964" height="543" alt="vue d&#39;ensemble" src="https://github.com/user-attachments/assets/77039f50-4dfe-4a76-adaa-0b0262a25167" /> 
+> <img width="993" height="565" alt="Analyse patients" src="https://github.com/user-attachments/assets/b401311b-a152-4073-8b89-745dfd7133a8" />
+<img width="987" height="558" alt="Analyse hospitalisation" src="https://github.com/user-attachments/assets/4faf04d5-b67e-4022-b54d-45865a31bbdc" />
+<img width="987" height="550" alt="Analyse financières" src="https://github.com/user-attachments/assets/4d7d90b8-c742-4e9c-8e23-e6324d70ceea" />
+
+
 
 ```
 screenshots/
 ├── dashboard_overview.png
-├── dashboard_medical.png
 ├── dashboard_financial.png
 ├── dashboard_patients.png
 └── dashboard_hospitalization.png
@@ -294,10 +292,10 @@ Améliorations possibles du projet :
 
 ## 📞 Contact
 
-**Votre Nom**
-- LinkedIn : [Votre Profil LinkedIn]
-- Email : votre.email@example.com
-- Portfolio : [Votre Site Web]
+**Ben OUATTARA**
+- LinkedIn : https://www.linkedin.com/in/ben-youssouf-ouattara-a9b912193/
+- Email : benouattara3@gmail.com
+- Portfolio : 
 
 ---
 
